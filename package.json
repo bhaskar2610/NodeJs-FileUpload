@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-fileupload",
+  "version": "1.0.0",
+  "description": "This is a small project for uploading a image or video on cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskar2610/NodeJs-FileUpload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskar2610/NodeJs-FileUpload/issues"
+  },
+  "homepage": "https://github.com/bhaskar2610/NodeJs-FileUpload#readme"
+}
