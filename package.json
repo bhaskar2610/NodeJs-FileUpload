@@ -4,7 +4,8 @@
   "description": "This is a small project for uploading a image or video on cloud.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bhaskar2610/NodeJs-FileUpload/issues"
   },
-  "homepage": "https://github.com/bhaskar2610/NodeJs-FileUpload#readme"
+  "homepage": "https://github.com/bhaskar2610/NodeJs-FileUpload#readme",
+  "dependencies": {
+    "mongoose": "^8.2.1",
+    "nodemon": "^3.1.0"
+  }
 }
